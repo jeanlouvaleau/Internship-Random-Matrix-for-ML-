@@ -22,14 +22,7 @@ We use the notation of the paper: $p$ is the dimension, $n$ is the number of sam
 
 ## Usage
 
-Python 3.13 was used to produce the figures. Install the packages and open the notebook:
-
-```
-pip install -r requirements.txt
-jupyter notebook spiked_haar_experiments_v2.ipynb
-```
-
-Then run all the cells from top to bottom.
+Python 3.13 was used to produce the figures. Install the packages and open the notebook then run all the cells from top to bottom.
 
 ## Reproducibility
 
