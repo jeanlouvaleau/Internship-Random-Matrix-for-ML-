@@ -14,7 +14,7 @@ No external data is used. Everything is simulated.
 
 ## Experiments
 
-We use the notation of the paper: $p$ is the dimension, $n$ is the number of samples, $r = s = 1$, $\alpha_1 = 10, \beta_1 = 5$ and $_sigma^2 = 1$. We follow the largest spike, $_theta = 10$.
+We use the notation of the paper: $p$ is the dimension, $n$ is the number of samples, $r = s = 1$, $\alpha_1 = 10, \beta_1 = 5$ and $\sigma^2 = 1$. We follow the largest spike, $\theta = 10$.
 
 1. Histograms of the fluctuation of the largest sample eigenvalue at the scale $\sqrt n$, in the real and in the complex case. There are four pairs $(p, n)$, one for each regime of the paper: (2500, 2500), (500, 5000), (500, 50000) and (100, 50000). The histograms are compared with the law predicted by the paper.
 2. The same histograms at the scale $p$.
